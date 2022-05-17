@@ -1,1 +1,1 @@
-{"title":"test 2","content":"test 2<br>\n<img src='https://i.imgur.com/A2XkvAI.jpg'></img>"}
+{"title":"test 2","content":"test 2\n<br>\n<div class=\"w3-container\">\n<img class=\"w3-half\" src='https://i.imgur.com/A2XkvAI.jpg'></img>\n</div>\n<br>\nasdasdasd\n"}
